@@ -6,6 +6,15 @@ strategies to create value.
 
 ## What's here:
 
+### Reading List
+Reading list based upon my favourite resources.
+
+[Innovation Reading List](Reading-List.md)
+
+### Guides
+
+
+
 ### Guides - For New Businesses
 
 A toolkit for dealing with new businesses
