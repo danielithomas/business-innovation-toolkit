@@ -12,7 +12,7 @@ A toolkit for dealing with new businesses
 
 ### Guides - For Established Businesses
 
-A toolkit for dealign with established businesses
+A toolkit for dealing with established businesses
 
 ### Processes
 
@@ -25,3 +25,8 @@ acknowledgement of their creators/authors.
 A collection of tools that can be applied. Note that tools created by other
 people and organisations are listed and linked only, with full acknowledgement
 of their creators/authors.
+
+### Reading List
+
+A reading list of resources including books, videos, articles and academic
+publications relating to business innovation.
