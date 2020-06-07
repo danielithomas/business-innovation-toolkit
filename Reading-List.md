@@ -33,7 +33,9 @@ Yes, there are also some videos as well.
 
 ## Videos
 
+1. Christensen, C. (2016). Understanding the Job. [Web Link](https://www.youtube.com/watch?v=sfGtw2C95Ms)
+
 ## Academic Papers
 
 1. Kastelle, T., Merchant, N., & Verreynne, M.-L. (2015). What Creates Advantage in the “Social Era”? Innovations: Technology, Governance, Globalization, 10(3-4), 81-91.
-2. Kastelle, T., & Steen, J. (2011). Ideas are not innovations. Prometheus, 29(2), 199-205. 
+2. Kastelle, T., & Steen, J. (2011). Ideas are not innovations. Prometheus, 29(2), 199-205.
