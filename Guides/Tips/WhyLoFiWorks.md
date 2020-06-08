@@ -11,3 +11,5 @@ In products and mock-ups, this can lead to feedback that basically summarises to
 When you show someone something sketched or put together with bubble gum & chicken wire, the person your validating with will know it's safe to critique. _It's not your baby_. You will get a lot more useful feedback with low-fi mockups. :-)
 
 ![How your brain works](Low-fi-Hi-fi.png)
+
+_Disclaimer_ The high-fidelity image used in the above example was chosen at random from a google search of "Beautiful Prototype" images, and used for illustrative purposes only. 
