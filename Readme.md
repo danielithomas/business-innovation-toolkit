@@ -14,15 +14,9 @@ publications relating to business innovation.
 
 ### Guides
 
+Guides, tips and tricks related to innovation.
 
-
-### Guides - For New Businesses
-
-A toolkit for dealing with new businesses
-
-### Guides - For Established Businesses
-
-A toolkit for dealing with established businesses
+[Innovation Guides](Guides/Readme.md)
 
 ### Processes
 
