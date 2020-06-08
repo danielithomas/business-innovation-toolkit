@@ -10,4 +10,4 @@ In products and mock-ups, this can lead to feedback that basically summarises to
 
 When you show someone something sketched or put together with bubble gum & chicken wire, the person your validating with will know it's safe to critique. _It's not your baby_. You will get a lot more useful feedback with low-fi mockups. :-)
 
-[How your brain works](Low-fi-Hi-fi.png)
+![How your brain works](Low-fi-Hi-fi.png)
