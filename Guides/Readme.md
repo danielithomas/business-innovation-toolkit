@@ -2,7 +2,7 @@
 
 ## Tips and Tricks
 
-1. [Why Low-Fi Works](Tips/WhyLowFiWorks.md)
+1. [Why Low-Fi Works](Tips/WhyLoFiWorks.md)
 
 ## New Business
 
