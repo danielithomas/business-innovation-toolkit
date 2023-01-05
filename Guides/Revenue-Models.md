@@ -6,7 +6,4 @@
 4. Utility
 5. Retained Expertise
 
-## Revenue Model Cards
 
-Challenge your existing business model by throwing a different revenue models
-at the problem.
