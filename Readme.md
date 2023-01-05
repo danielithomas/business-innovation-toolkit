@@ -12,13 +12,13 @@ This collection will _never_ be complete, nor will be entirely comprehensive: Ne
 
 Reading list based upon my favourite resources. Resources include books, videos, articles and academic publications relating to business innovation.
 
-[Innovation Reading List](Reading-List.md)
+* [Innovation Reading List](Reading-List.md)
 
 ### Guides
 
 Guides, tips and tricks related to innovation.
 
-[Innovation Guides](Guides/Readme.md)
+* [Innovation Guides](Guides/Readme.md)
 
 ### Tools
 
